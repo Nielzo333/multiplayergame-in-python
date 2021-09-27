@@ -1,0 +1,8 @@
+socket
+asyncore
+random
+pickle
+time
+pygame
+sys
+select
